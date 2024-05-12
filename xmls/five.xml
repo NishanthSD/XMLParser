@@ -1,0 +1,41 @@
+<company>
+    <name>Acme Corporation</name>
+    <departments>
+        <department>
+            <name>Engineering</name>
+            <employees>
+                <employee>
+                    <name>John Doe</name>
+                    <position>Senior Engineer</position>
+                </employee>
+                <employee>
+                    <name>Jane Smith</name>
+                    <position>Software Developer</position>
+                </employee>
+            </employees>
+        </department>
+        <department>
+            <name>Sales</name>
+            <employees>
+                <employee>
+                    <name>Michael Johnson</name>
+                    <position>Sales Manager</position>
+                </employee>
+                <employee>
+                    <name>Sarah Brown</name>
+                    <position>Sales Representative</position>
+                </employee>
+            </employees>
+        </department>
+    </departments>
+    <locations>
+        <location>
+            <name>Headquarters</name>
+            <address>123 Main Street, Anytown, USA</address>
+        </location>
+        <location>
+            <name>Branch Office</name>
+            <address>456 Oak Avenue, Another Town, USA</address>
+        </location>
+    </locations>
+</company>

@@ -1,0 +1,41 @@
+<root>
+<location>
+<name>Moscow</name>
+<region>Moscow City</region>
+<country>Russia</country>
+<lat>55.75</lat>
+<lon>37.62</lon>
+<tz_id>Europe/Moscow</tz_id>
+<localtime_epoch>1713074807</localtime_epoch>
+<localtime>2024-04-14 9:06</localtime>
+</location>
+<current>
+<last_updated_epoch>1713074400</last_updated_epoch>
+<last_updated>2024-04-14 09:00</last_updated>
+<temp_c>9</temp_c>
+<temp_f>48.2</temp_f>
+<is_day>1</is_day>
+<condition>
+<text>Sunny</text>
+<icon>//cdn.weatherapi.com/weather/64x64/day/113.png</icon>
+<code>1000</code>
+</condition>
+<wind_mph>6.9</wind_mph>
+<wind_kph>11.2</wind_kph>
+<wind_degree>200</wind_degree>
+<wind_dir>SSW</wind_dir>
+<pressure_mb>1009</pressure_mb>
+<pressure_in>29.8</pressure_in>
+<precip_mm>0.02</precip_mm>
+<precip_in>0</precip_in>
+<humidity>81</humidity>
+<cloud>0</cloud>
+<feelslike_c>7.2</feelslike_c>
+<feelslike_f>45</feelslike_f>
+<vis_km>10</vis_km>
+<vis_miles>6</vis_miles>
+<uv>3</uv>
+<gust_mph>8.7</gust_mph>
+<gust_kph>13.9</gust_kph>
+</current>
+</root>

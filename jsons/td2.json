@@ -1,0 +1,51 @@
+{
+ "company": {
+  "name": "Acme Corporation",
+  "departments": {
+   "department": [
+    {
+     "name": "Engineering",
+     "employees": {
+      "employee": [
+       {
+        "name": "John Doe",
+        "position": "Senior Engineer"
+       },
+       {
+        "name": "Jane Smith",
+        "position": "Software Developer"
+       }
+      ]
+     }
+    },
+    {
+     "name": "Sales",
+     "employees": {
+      "employee": [
+       {
+        "name": "Michael Johnson",
+        "position": "Sales Manager"
+       },
+       {
+        "name": "Sarah Brown",
+        "position": "Sales Representative"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  "locations": {
+   "location": [
+    {
+     "name": "Headquarters",
+     "address": "123 Main Street, Anytown, USA"
+    },
+    {
+     "name": "Branch Office",
+     "address": "456 Oak Avenue, Another Town, USA"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,38 @@
+{
+    "university": {
+        "campus": {
+            "name": "Downtown Campus",
+            "location": {
+                "city": "Los Angeles",
+                "state": "California",
+                "country": "USA"
+            },
+            "facilities": {
+                "library": {
+                    "name": "Downtown Library",
+                    "floors": "3"
+                },
+                "laboratories": {
+                    "computer_science": {
+                        "name": "Computer Science Lab",
+                        "equipment": {
+                            "item": "Networking Devices"
+                        }
+                    },
+                    "biology": {
+                        "name": "Biology Lab",
+                        "equipment": {
+                            "item": "Dissection Tools"
+                        }
+                    }
+                },
+                "sports_facility": {
+                    "name": "City Park",
+                    "facilities": {
+                        "item": "Skate Park"
+                    }
+                }
+            }
+        }
+    }
+}
